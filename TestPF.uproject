@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C917E48A-4EA6-7DC4-A55B-80B2BCA75063}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestPF",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
